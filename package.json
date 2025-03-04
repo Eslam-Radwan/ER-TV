@@ -4,7 +4,8 @@
   "description": "Welcome to ER-TV, a movie and TV series website built with vanilla JavaScript and Bootstrap. This project provides a user-friendly interface to browse and discover movies and TV series.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "lint": "eslint assets/scripts/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Eslam-Radwan/ER-TV/issues"
   },
-  "homepage": "https://github.com/Eslam-Radwan/ER-TV#readme"
+  "homepage": "https://github.com/Eslam-Radwan/ER-TV#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "globals": "^16.0.0",
+    "jest": "^29.7.0"
+  }
 }
