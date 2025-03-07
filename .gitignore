@@ -74,4 +74,4 @@ temp/
 .github/workflows/*.log
 .github/workflows/*.cache
 
-./src/assets/scripts/firebase.js
+src/assets/scripts/firebase.js
