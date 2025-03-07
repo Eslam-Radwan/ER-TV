@@ -73,3 +73,5 @@ temp/
 # GitHub Actions artifacts (if used)
 .github/workflows/*.log
 .github/workflows/*.cache
+
+./src/assets/scripts/firebase.js
