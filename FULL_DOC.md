@@ -181,13 +181,13 @@ jobs:
 | `hotfix/*`    | Urgent production fixes |
 
 ## 📅 Project Milestones
-| **Milestone** | **Description** | **Deadline** |
-|--------------|---------------|-------------|
-| **M1** Setup | Initialize project, configure Webpack, Jest, ESLint | Week 1 |
-| **M2** Auth  | Implement Login, Signup, Profile | Week 2 |
-| **M3** Movies & TV | Display movie and TV listings, search, filter | Week 3 |
-| **M4** User Features | Watchlist, Favorites, Reviews | Week 4 |
-| **M5** Testing & CI/CD | Implement Jest, GitHub Actions, Final Fixes | Week 5 |
+| **Milestone**          | **Description**                                     | **Deadline** |
+| ---------------------- | --------------------------------------------------- | ------------ |
+| **M1** Setup           | Initialize project, configure Webpack, Jest, ESLint | Week 1       |
+| **M2** Auth            | Implement Login, Signup, Profile                    | Week 2       |
+| **M3** Movies & TV     | Display movie and TV listings, search, filter       | Week 3       |
+| **M4** User Features   | Watchlist, Favorites, Reviews                       | Week 4       |
+| **M5** Testing & CI/CD | Implement Jest, GitHub Actions, Final Fixes         | Week 5       |
 
 ## 🛠 Tools & Technologies
 - **Frontend**: Vanilla JS, Bootstrap, Webpack
